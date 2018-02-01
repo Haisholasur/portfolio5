@@ -1,5 +1,5 @@
 ---
-title: "Case2"
+title: "Inspiration"
 date: 2018-02-01T10:52:35+01:00
 ---
 Detter er et link til nogle inspiration for kunder 
